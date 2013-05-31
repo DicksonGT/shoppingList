@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="defaultShoppingListName">Shopping List</string>
+    <string name="addButton">Add</string>
+    <color name="backgroundColor">#110f0f</color>
+    <color name="textColor">#FFFFFF</color>
+    <string name="messageEmptyInput">Empty input not allowed!</string>
+
+</resources>
